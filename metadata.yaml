@@ -1,0 +1,25 @@
+_repo: Kora-in-Hell-Improvisations_56681
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, William Carlos
+    birthdate: 1883
+    deathdate: 1963
+    gutenberg_agent_id: '8885'
+    url: http://www.gutenberg.org/2009/agents/8885
+    wikipedia: http://en.wikipedia.org/wiki/William_Carlos_Williams
+description: ''
+gutenberg_issued: '2018-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prose poems'
+- !lcc 'PS'
+- GITenberg
+title: 'Kora in Hell: Improvisations'
+url: http://www.gutenberg.org/ebooks/56681
